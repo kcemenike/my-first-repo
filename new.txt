@@ -1,4 +1,7 @@
 main file
 test branch different
+<<<<<<< HEAD
 to be reverted
 new revert
+=======
+>>>>>>> parent of deb83c7 (to revert)
